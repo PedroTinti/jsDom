@@ -1,4 +1,4 @@
-<h1 align="center">Projeto FOCUS</h1>
+<h1 align="center">Projeto FOKUS</h1>
 
 <h3>Visual desenvolvivdo pelo pessoal do ALURA e manipluação de DOM desenvolvimento por mim.</h3>
 
