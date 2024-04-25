@@ -1,6 +1,6 @@
 <h1 align="center">Projeto FOKUS</h1>
 
-<h3>Visual desenvolvivdo pelo pessoal do ALURA e manipluação de DOM desenvolvimento por mim.</h3>
+<h3>Visual desenvolvido pelo pessoal do ALURA e manipluação de DOM desenvolvimento por mim.</h3>
 
 <p align="center">
 O DOM é responsavel por captar sinais do navegador e reagir a eventos na página web. Nesse projeto foi desenvolvimento um sistema de POMODORO <br/>
